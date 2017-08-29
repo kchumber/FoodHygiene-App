@@ -1,0 +1,7 @@
+ <resources>
+        <string name="app_name">FoodHygiene_14024343</string>
+        <string name="location">Search by Location</string>
+        <string name="update_location">Find Me</string>
+        <string name="title_activity_maps">Map</string>
+        <string name="Scroller">scroller</string>
+</resources>
